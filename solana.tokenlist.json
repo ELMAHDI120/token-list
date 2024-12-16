@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "D7mW3mZiPJBec2gHAKY7cTDEEWPZLCpuUXtBAocgXJN3",
+  "symbol": "HITCO",
+  "name": "HITCO COIN",
+  "decimals": 8,
+  "logoURI": "https://your-logo-link.png",
+  "tags": ["utility"]
+}
